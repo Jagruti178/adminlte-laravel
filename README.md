@@ -549,13 +549,15 @@ If you discover any security related issues, please email sergiturbadenas@gmail.
 - [Sergi Tur Badenas][link-author]
 - [All Contributors][link-contributors]
 
+## See also
+
+https://github.com/acacha/adminlte-laravel-installer
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-## See also
 
-https://github.com/acacha/adminlte-laravel-installer
 
 [ico-version]: https://img.shields.io/packagist/v/acacha/adminlte-laravel.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
